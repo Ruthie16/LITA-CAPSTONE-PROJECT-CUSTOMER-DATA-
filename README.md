@@ -132,3 +132,21 @@ from[dbo].[CUSTOMERDATA]
 
 
 ### Data Visualization 
+![SQL 2](https://github.com/user-attachments/assets/f33c5acb-7417-407f-a170-b2eca1c862dd)
+![SQL 1](https://github.com/user-attachments/assets/b132f99a-d635-4963-a43c-4184c01770f0)
+![ex 5](https://github.com/user-attachments/assets/233103bd-394c-4fd2-bb86-96da0153bdd5)
+![ex 4](https://github.com/user-attachments/assets/e7260c22-e6ce-4441-8d34-44d2068b083d)
+![ex 2](https://github.com/user-attachments/assets/8b948d2a-f4f6-4c9d-907c-a0d5598d4cca)
+![bi 4](https://github.com/user-attachments/assets/6217c927-9cc6-43fc-9dc8-cc3f98051b2b)
+![BI 3](https://github.com/user-attachments/assets/24d872e9-ea96-4d5b-a787-fa78d55940ec)
+![BI 2](https://github.com/user-attachments/assets/60699f49-96fd-413e-8746-9dc53605db40)
+![BI 1](https://github.com/user-attachments/assets/7cc40809-fa2b-4163-b72c-ed0db1284ac8)
+![SQL 11](https://github.com/user-attachments/assets/050a537b-5cd1-479e-bec4-5e082d62e5af)
+![SQL 10](https://github.com/user-attachments/assets/526b4975-d1f7-48c9-936b-24ae486d51fa)
+![SQL 9](https://github.com/user-attachments/assets/91687a18-ec8e-453b-abcc-0c8ab77a1d2d)
+![SQL 8](https://github.com/user-attachments/assets/f42e3974-45b4-489b-907f-cad53e9bda80)
+![SQL 7](https://github.com/user-attachments/assets/4a27f430-2fc8-4c38-ab05-69927dff346e)
+![SQL 6](https://github.com/user-attachments/assets/79266746-6ada-4301-a08c-7c761a48880f)
+![SQL 5](https://github.com/user-attachments/assets/0741bd92-619c-423e-a037-6f1a81575c16)
+![SQL 4](https://github.com/user-attachments/assets/853d6eb6-e96a-4645-be86-4bc4faab2265)
+![SQL 3](https://github.com/user-attachments/assets/2856e321-7281-427c-93ea-6bdd558965e5)
