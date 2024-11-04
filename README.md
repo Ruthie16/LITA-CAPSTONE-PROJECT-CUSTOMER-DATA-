@@ -2,7 +2,7 @@
 
 # LITA-Capstone-project
 
-### Project Title : Sales Performance Analysis For a Retail Store 
+### Project Title : Customer segmentation for a Subscription Service 
 
 [Project Overview](#project-overview)
 
@@ -23,7 +23,7 @@
 
 ### Project Overview
 ---
-This sales analysis provides valuable insights for a retail store over a specified timeframe. By examining various parameters within the data, I gained a comprehensive understanding that facilitated informed decision-making. This process allowed me to derive narratives from the insights obtained, enriching my understanding of sales performance.
+This customer subscription service segmentation analysis provides valuable insights for a subscription service over a specified timeframe. By examining various parameters within the data, I gained a comprehensive understanding that facilitated informed decision-making. This process allowed me to derive narratives from the insights obtained, enriching my understanding of customer subscription.
 
 ### Data Sources 
 ---
